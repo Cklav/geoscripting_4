@@ -13,6 +13,7 @@ source('R/minusRaster.R')
 
 
 HelloWorld('john')
+HelloWorld('Cornelis')
 ageCalculator(2009)
 
 r <- raster(system.file("external/rlogo.grd",package="raster"))
